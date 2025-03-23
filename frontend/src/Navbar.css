@@ -1,0 +1,130 @@
+.frame1{
+    background: #ffffff;
+    border-radius: 50px;
+    width: 890px;
+    height: 80px;
+    position: relative;
+   justify-content: center;
+    top: 21px;
+    box-shadow: 2px 4px 8px 8px rgb(243, 243, 243);
+    overflow: hidden;
+}
+
+.frame1 .logo{
+    color: var(--dark-black, #303030);
+    position: absolute;
+    font-family: "SatoshiVariable-Bold", sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    position: relative;
+    top: 18px;
+   left: 40px;
+   
+   
+}
+.frame1 .frame1-1{
+  background: #ffffff;
+  border-color: transparent;
+  top:16px;
+  left:26px;
+  width: 838px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  
+}
+.frame1 .frame1-1 .home{
+    color: var(--dark-black, #303030);
+    position: absolute;
+    font-family: "SatoshiVariable-Bold", sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    position: relative;
+    top: 18px;
+   left: 110px;
+   
+}
+.frame1 .framelogo{
+    width: 44px;
+    height: 44.68px;
+    position: absolute;
+    left: 5px;
+    top: 0px;
+    overflow: hidden;
+}
+
+
+.frame1 .findjobs{
+    color: var(--dark-black, #303030);
+    position: absolute;
+    font-family: "SatoshiVariable-Bold", sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    position: relative;
+    top: 18px;
+   left: 200px;
+   
+}
+.frame1 .findtalent{
+    color: var(--dark-black, #303030);
+    position: absolute;
+    font-family: "SatoshiVariable-Bold", sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    position: relative;
+    top: 18px;
+   left: 280px;
+   
+}
+.frame1 .aboutus{
+    color: var(--dark-black, #303030);
+    position: absolute;
+    font-family: "SatoshiVariable-Bold", sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    position: relative;
+    top: 18px;
+   left: 350px;
+   
+}
+
+.frame1 .terminals{
+    color: var(--dark-black, #303030);
+    position: absolute;
+    font-family: "SatoshiVariable-Bold", sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    position: relative;
+    top: 20px;
+   left: 410px;
+   
+}
+.frame1 .logo{
+    height: 40px;
+  width: 50px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  bottom:10px;
+  overflow: visible;
+}
+.frame1 .button{
+    background-color: rgba(97, 0, 173, 1);
+    border-radius: 20px;
+    border-style: solid;
+    height: 25px;
+    width: 100px;
+    top:10px;
+    text-align: center;
+    border-color: transparent;
+    padding: 3px;
+    display: flex;
+    flex-direction: column;
+    left: 470px;
+    position: relative;
+    text-align: center;
+    color:white;
+    font-family: "SatoshiVariable-Bold", sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+}

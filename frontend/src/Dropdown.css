@@ -1,0 +1,37 @@
+
+.dropdown .drop-btn{
+padding:10px;
+border-radius: 10px;
+background: #ffffff;
+font-size: 18px;
+font-weight: 600;
+color:#333;
+font-family: "Satoshi Variable";
+height: 55px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+}
+.dropdown .dropcontent{
+position:absolute;
+top:60px;
+background: #ffffff;
+border-radius: 10px;
+box-shadow: 3px 3px 10px 6px rgba(0,0,0,0.06);
+color:#333;
+align-items: center;
+width: 375px;
+height: 192px;
+}
+.dropdown .dropcontent .item{
+padding:15px;
+cursor:pointer;
+transition:all 0.2s;
+font-family: "Satoshi Variable";
+font-weight: 500;
+font-size: 16px;
+}
+.dropdown .dropcontent .item:hover{
+background:#c8c7c7;
+}
